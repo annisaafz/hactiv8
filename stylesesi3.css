@@ -1,0 +1,27 @@
+h3 {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12;
+    text-decoration: overline;
+    font-style: italic;
+    text-align: left;
+    text-transform: capitalize;
+    background-color: black;
+    margin: 50px;
+    word-spacing: 40px;
+    padding:100px;
+    border-style: dashed;
+    border-width: 7px;
+    border-radius:30px
+}
+a{ 
+    .link:hover{
+        color: red;
+    }
+    .link:link{
+        color: aqua;
+    }
+    .link:visited{
+        color: blueviolet;
+    }
+}
